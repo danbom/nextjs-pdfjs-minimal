@@ -114,6 +114,10 @@ next.config.ts          비어 있음
 - vercel/next.js [#64165](https://github.com/vercel/next.js/issues/64165) · [#64657](https://github.com/vercel/next.js/issues/64657)
 - wojtekmaj/react-pdf [#1856](https://github.com/wojtekmaj/react-pdf/issues/1856) · [discussion #1688](https://github.com/wojtekmaj/react-pdf/discussions/1688)
 
+## 만든 방법
+
+이 저장소는 에이전트(Claude)와 같이 만들었어요. 어떤 문제를 다룰지와 어디까지 공개할지는 제가 정했고, 코드는 에이전트가 쓰고 제가 읽고 검토했어요. 글에 쓴 숫자는 모두 이 코드로 실제로 돌려 본 값이고, 틀린 곳이 있다면 책임은 저에게 있어요.
+
 ## 라이선스
 
 MIT
